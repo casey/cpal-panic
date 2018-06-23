@@ -1,0 +1,7 @@
+[package]
+name = "cpal-panic"
+version = "0.1.0"
+authors = ["Casey Rodarmor <casey@rodarmor.com>"]
+
+[dependencies]
+cpal = "0.8.1"
